@@ -1,0 +1,2 @@
+# rvmbasic
+rvm basic config
